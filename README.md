@@ -1,7 +1,7 @@
 
-# header-footer-lib
+# header-footerify
 
-**header-footer-lib** is a lightweight JavaScript library designed to automate the insertion of header and footer content into your web pages. By loading header and footer content from external HTML files, this library helps you maintain a clean and modular structure in your projects, making updates easier and more efficient.
+**header-footerify** is a lightweight JavaScript library designed to automate the insertion of header and footer content into your web pages. By loading header and footer content from external HTML files, this library helps you maintain a clean and modular structure in your projects, making updates easier and more efficient.
 
 ## Table of Contents
 
@@ -21,16 +21,16 @@
 
 ## Installation
 
-You can install `header-footer-lib` via npm:
+You can install `header-footerify` via npm:
 
 ```bash
-npm install header-footer-lib
+npm install header-footerify
 ```
 
 Or you can directly include the `headerFooter.js` file in your project by downloading or cloning the repository:
 
 ```bash
-git clone https://github.com/your-username/header-footer-lib.git
+git clone https://github.com/burhanuddinhamzabhai/header-footerify.git
 ```
 
 Include the script in your HTML file:
@@ -64,7 +64,7 @@ Include the script in your HTML file:
 
 ### Example
 
-Here’s a simple example of how to use `header-footer-lib` in a web page:
+Here’s a simple example of how to use `header-footerify` in a web page:
 
 ```html
 <!DOCTYPE html>
@@ -81,7 +81,7 @@ Here’s a simple example of how to use `header-footer-lib` in a web page:
     <!-- Main content -->
     <main>
         <h1>Welcome to My Website</h1>
-        <p>This is a simple example of using the header-footer-lib.</p>
+        <p>This is a simple example of using the header-footerify.</p>
     </main>
 
     <!-- Footer placeholder -->
@@ -99,7 +99,7 @@ Here’s a simple example of how to use `header-footer-lib` in a web page:
 
 ## Contributing
 
-We welcome contributions to improve `header-footer-lib`. If you have any suggestions or find a bug, please open an issue or submit a pull request.
+We welcome contributions to improve `header-footerify`. If you have any suggestions or find a bug, please open an issue or submit a pull request.
 
 ### Steps to Contribute:
 
